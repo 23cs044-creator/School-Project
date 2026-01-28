@@ -1,0 +1,13 @@
+nav{
+    position: absolute;
+    top: 100;
+    right: 20;
+    display: flex;
+    gap: 200px;
+}
+.nav-button{
+    text-decoration: none;
+    color: rgb(21, 22, 22);
+    padding: 10px 30px;
+    
+}
